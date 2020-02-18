@@ -1,3 +1,5 @@
+<meta charset=utf-8>
+
 <script src="twgl.min.js"></script>
 <title>CHOOSE TO COOPERATE</title>
 
@@ -35,7 +37,7 @@
     border: 1px solid lightgrey;
     image-rendering: pixelated;
     touch-action: none;
-    width: 50%;
+    width: 100%;
 }
 
 #demo-controls {
@@ -228,14 +230,58 @@ input[type="radio"] {
 }
 
 
+
+ /* Split the screen in half */
+.split {
+  height: 100%;
+  width: 50%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+/* Control the left side */
+.left {
+  left: 0;
+  background-color: white;
+}
+
+/* Control the right side */
+.right {
+  right: 0;
+  background-color: white;
+}
+
+/* If you want the content centered horizontally and vertically */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+/* Style the image inside the centered container, if needed */
+.centered img {
+  width: 150px;
+  border-radius: 50%;
+} 
+
 </style>
 
-<div class="l-body-outset grid" id="demo">
-
+<div class="split left" id="demo">
     <canvas id="demo-canvas" width="256" height="256"></canvas>
 
+</div>
 
-    </div>
+<div class="split right">
+  <div class="centered">
+    <h2>Machine Learning Art будет на <a href="https://datafest.ru">Датафесте</a> </h2>
+    <h1><a href="https://forms.gle/yrRXjvezZg2CGm2P8">Присоединиться и узнать про Open Call</a></h1>
+	<p> Interactive demo <a href="https://distill.pub/2020/growing-ca/">by Alex Mordvintsev</a></p>
+  </div>
 </div>
 
 <script type="module">
