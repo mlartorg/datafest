@@ -3,9 +3,10 @@ title: open call for DataFest 2020
 ---
 &nbsp;
 ![cupola](projects/img/planetarium_keanu.png)
-### English version below.
 
-[Анкета участника](https://forms.gle/sd2Qd3cLTNPKLMw29)
+_English version below._
+
+[Чтобы присоединиться, заполните анкету участника](https://forms.gle/sd2Qd3cLTNPKLMw29)
 
 Приглашаем художников, музыкантов, разработчиков, ученых и всех, кто работает в направлении Science & Art с использованием алгоритмов машинного обучения, принять участие в оформлении онлайн-галереи Machine Learning Art в рамках Data Fest 2020. Data Fest – это крупнейшее мероприятие года, которое проводит сообщество Open Data Science. Мероприятие посвящено передовым результатам и разработкам в области AI и ежегодно собирает более 6 тысяч участников. 
 
@@ -18,6 +19,8 @@ title: open call for DataFest 2020
 До 1 августа мы будем проводить отбор готовых проектов для онлайн-галереи, а также оказывать экспертную поддержку в реализации идей, содействовать совместной работе художников и разработчиков. 
 
 [Анкеты участников](https://forms.gle/sd2Qd3cLTNPKLMw29) принимаются до 1 августа.
+
+Вопросы и мотивационные письма принимаются по адресу datafest@mlart.org
 
 ### English version: 
 
@@ -35,3 +38,4 @@ Until August 1, we will conduct selection of projects for online galleries, as w
 
 [Profiles of participants](https://forms.gle/sd2Qd3cLTNPKLMw29) are accepted until August 1.
 
+Questions and motivation letters are accepted at datafest@mlart.org
