@@ -2,7 +2,7 @@
 title: open call for DataFest 2020
 ---
 &nbsp;
-![cupola](img/planetarium_keanu.jpg)
+![cupola](projects/img/planetarium_keanu.jpg)
 ### English version below.
 
 Приглашаем художников, музыкантов, разработчиков, ученых и всех, кто работает в направлении Science & Art с использованием алгоритмов машинного обучения, принять участие в оформлении онлайн-галереи Machine Learning Art в рамках Data Fest 2020. Data Fest – это крупнейшее мероприятие года, которое проводит сообщество Open Data Science. Мероприятие посвящено передовым результатам и разработкам в области AI и ежегодно собирает более 6 тысяч участников. 
