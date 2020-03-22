@@ -1,7 +1,7 @@
 ---
 title: open call for DataFest 2020
 ---
-&nbsp;
+# Open Call for DataFest 2020
 ![cupola](projects/img/planetarium_keanu.png)
 
 _English version below._
