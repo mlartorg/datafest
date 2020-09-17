@@ -36,9 +36,12 @@ Evgeny and Yuri will discuss the neural network art gallery, how it is construct
 &nbsp;
 
 # How to participate:
-Talks will be premiered in ML Art room in https://spatial.chat/s/ods. 
-You’ll need to find ML ART room in a room list.
-To get a spatial chat invite, please register on https://ods.ai website. It will take no longer than 2 minutes, we promise! 
+Talks will be premiered in ML Art room in [spatial chat](https://spatial.chat/s/ods). 
+
+You’ll need to find ML ART room in a room list!
+
+To get a spatial chat invite, please register on [ods.ai](https://ods.ai) website. It will take no longer than 2 minutes, we promise! 
+
 After each talk there will be a live Q&A session with the speaker.
 
 &nbsp;
