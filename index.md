@@ -13,7 +13,7 @@ title: 🤖📚🎨 Machine Learning Art on DataFest 2020
 ### During the conference we will hold several meetups with talks from various artists working with machine learning. 
 
 ##  [First meetup will be held on September 19](https://mlart.org/datafest/2020-09-19)
-## Click here to see the schedule!](https://mlart.org/datafest/2020-09-19)
+## [Click here to see the schedule!](https://mlart.org/datafest/2020-09-19)
 
 &nbsp;
 
@@ -56,7 +56,7 @@ After each talk there will be a live Q&A session with the speaker.
 &nbsp;
 
 ##  [First meetup will be held on September 19](https://mlart.org/datafest/2020-09-19)
-## Click here to see the schedule!](https://mlart.org/datafest/2020-09-19)
+## [Click here to see the schedule!](https://mlart.org/datafest/2020-09-19)
 &nbsp;
 
 And we’ll be streaming the whole thing to youtube!
