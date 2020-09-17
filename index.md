@@ -43,7 +43,8 @@ After each talk there will be a live Q&A session with the speaker.
 
 ##  [First meetup will be held on September 19. Click here to see the schedule!](https://mlart.org/datafest/2020-09-19)
 
-And we’ll be streaming the whole thing to youtube:
+And we’ll be streaming the whole thing to youtube!
+
 [![LIVE](images/ml_art_live_640.png)](https://www.youtube.com/watch?v=othTjSowvqY)
 
 ### See you there!
