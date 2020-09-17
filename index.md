@@ -5,7 +5,7 @@ title: 🤖📚🎨 Machine Learning Art on DataFest 2020
 
 # 🤖📚🎨Machine Learning Art will take part in Data Fest!
 &nbsp;
-## [Data Fest](https://fest.ai/2020) is the main Data Science community organized event held by by [Open Data Science](https://ods.ai).
+## [Data Fest](https://fest.ai/2020) is the main Data Science community organized event by [Open Data Science](https://ods.ai).
 
 &nbsp;
 
