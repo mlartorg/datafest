@@ -9,7 +9,7 @@ title: 🤖📚🎨 Machine Learning Art on DataFest 2020
 
 ### Our goal is to engage Data Scientists in the process of creating objects and tools of modern media and technological art. Creating collaborations between artists and scientists.
 ### During the conference we will hold several meetups with talks from various artists working with machine learning. 
-#  [First meetup will be held on September 19. Click here to see the schedule!](https://mlart.org/datafest/2020-09-19)
+#$  [First meetup will be held on September 19. Click here to see the schedule!](https://mlart.org/datafest/2020-09-19)
 
 ## Meet our speakers:
 ### [Alexander Mordvintsev](https://twitter.com/zzznah)
@@ -41,9 +41,9 @@ You’ll need to find ML ART room in a room list.
 To get a spatial chat invite, please register on https://ods.ai website. It will take no longer than 2 minutes, we promise! 
 After each talk there will be a live Q&A session with the speaker.
 
-#  [First meetup will be held on September 19. Click here to see the schedule!](https://mlart.org/datafest/2020-09-19)
+##  [First meetup will be held on September 19. Click here to see the schedule!](https://mlart.org/datafest/2020-09-19)
 
 And we’ll be streaming the whole thing to youtube:
-[![LIVE](images/ml_art_live_512.png)](https://www.youtube.com/watch?v=othTjSowvqY)
+[![LIVE](images/ml_art_live_640.png)](https://www.youtube.com/watch?v=othTjSowvqY)
 
 ### See you there!
