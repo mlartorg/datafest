@@ -23,7 +23,7 @@ Alexander will talk about Differentiable Self-Organisation with Neural Cellular 
 
 Differentiable Self-Organisation is a practical way of designing distributed systems of locally communicating agents working together towards reaching a shared goal.
 
-Neural Cellular Automata are examples of such systems. During this session I’m going to give a glimpse of the “behind the stage“ process of designing and training Neural CA.
+Neural Cellular Automata are examples of such systems. During this session he's going to give a glimpse of the “behind the stage“ process of designing and training Neural CA.
 
 [Teaser](https://youtu.be/zRje8tRjcz8)
 
