@@ -1,10 +1,11 @@
 ---
 title: Machine Learning Art on DataFest 2020
 ---
-# Machine Learning Art on DataFest 2020
 [![trailer](https://fest.ai/2020/static/img/design/fest_global_white_fill.svg)](https://youtu.be/VdgYqOoqL1s)
 
-## [Data Fest 2020](https://fest.ai/2020) is the main Data Science community organized event held by by [Open Data Science](https://ods.ai).
+# Machine Learning Art will take part in DataFest 2020
+
+## [Data Fest](https://fest.ai/2020) is the main Data Science community organized event held by by [Open Data Science](https://ods.ai).
 
 ### Our goal is to engage Data Scientists in the process of creating objects and tools of modern media and technological art. Creating collaborations between artists and scientists.
 ### During the conference we will hold several meetups with talks from various artists working with machine learning. 
