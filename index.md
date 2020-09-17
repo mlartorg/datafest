@@ -43,6 +43,6 @@ To get a spatial chat invite, please register on https://ods.ai website. It will
 After each talk there will be a live Q&A session with the speaker.
 
 And we’ll be streaming the whole thing to youtube:
-https://youtu.be/othTjSowvqY
+[![LIVE](images/ml_art_live.png)](https://www.youtube.com/watch?v=othTjSowvqY)
 
 ### See you there!
