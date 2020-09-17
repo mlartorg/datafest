@@ -30,12 +30,16 @@ Neural Cellular Automata are examples of such systems. During this session I’m
 &nbsp;
 
 ## 17:00 MSK [Roman Kosovichev](https://www.artlebedev.com/romandkos/)
-Roman will talk about the first in the world non-existed designer with real satisfied customers and how AI replaces humans in the design and creative fields. Would machines lead to new art-direction processes?
+Roman will talk about the first in the world non-existed designer with real satisfied customers and how AI replaces humans in the design and creative fields. 
+
+Would machines lead to new art-direction processes?
 
 &nbsp;
 
 ## 18:00 MSK [Evgeny Kashin & Yuri Viazovetskyi](https://mlart.org/datafest)
-Evgeny and Yuri will discuss the neural network art gallery, how it is constructed, and how to train the neural network to generate paintings. We will also talk about how to generate not just random paintings, but matching the user query.
+Evgeny and Yuri will discuss the neural network art gallery, how it is constructed, and how to train the neural network to generate paintings. 
+
+They will also talk about how to generate not just random paintings, but matching the user query.
 
 &nbsp;
 
