@@ -41,7 +41,8 @@ After each talk there will be a live Q&A session with the speaker.
 
 &nbsp;
 
-And we’ll be streaming the whole thing to youtube:
+And we’ll be streaming the whole thing to youtube!
+
 [![LIVE](images/ml_art_live_640.png)](https://www.youtube.com/watch?v=othTjSowvqY)
 
 ### See you there!
