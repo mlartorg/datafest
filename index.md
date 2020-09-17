@@ -14,7 +14,9 @@ title: 🤖📚🎨 Machine Learning Art on DataFest 2020
 
 &nbsp;
 
-# September 19 Schedule
+# September 19 Schedule:
+
+&nbsp;
 
 ## 16:00 MSK [Alexander Mordvintsev](https://twitter.com/zzznah)
 Alexander will talk about Differentiable Self-Organisation with Neural Cellular Automata.
