@@ -1,7 +1,7 @@
 ---
 title: 🤖📚🎨 Machine Learning Art on DataFest 2020
 ---
-[![trailer](https://fest.ai/2020/static/img/design/fest_global_white_fill.svg)](https://youtu.be/VdgYqOoqL1s)
+[![trailer](https://fest.ai/2020/static/img/design/fest_global_white_fill.svg)](https://www.youtube.com/watch?v=othTjSowvqY)
 
 # 🤖📚🎨Machine Learning Art will take part in Data Fest!
 &nbsp;
