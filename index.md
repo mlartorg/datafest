@@ -23,6 +23,9 @@ title: 🤖📚🎨 Machine Learning Art on DataFest 2020
 ## 16:00 MSK [Nikita Panin](https://nikitapanin.com/)
 Nikita Panin is a multidisciplinary artist from St. Petersburg. 
 
+Using the example of his project "The perenneural philosophy", he will share thoughts and details of using StyleGan2 as a tool for creating meaningful generative visual art.
+
+
 &nbsp;
 
 ## 17:00 MSK [Olesya Ilenok](https://www.instagram.com/wall_for_scroll/)
