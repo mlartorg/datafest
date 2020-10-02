@@ -1,7 +1,7 @@
 ---
 title: 🤖📚🎨 Machine Learning Art on DataFest 2020
 ---
-[![trailer](https://fest.ai/2020/static/img/design/fest_global_white_fill.svg)](https://www.youtube.com/watch?v=othTjSowvqY)
+[![trailer](https://fest.ai/2020/static/img/design/fest_global_white_fill.svg)](https://youtu.be/SbrdVdvtgVw)
 
 # 🤖📚🎨Machine Learning Art will take part in Data Fest!
 &nbsp;
@@ -11,6 +11,57 @@ title: 🤖📚🎨 Machine Learning Art on DataFest 2020
 
 ### Our goal is to engage Data Scientists in the process of creating objects and tools of modern media and technological art. Creating collaborations between artists and scientists.
 ### During the conference we will hold several meetups with talks from various artists working with machine learning. 
+
+
+&nbsp;
+
+
+# October 3 Schedule:
+
+&nbsp;
+
+## 16:00 MSK [Nikita Panin](https://nikitapanin.com/)
+Nikita Panin is a multidisciplinary artist from St. Petersburg. 
+
+Using the example of his project "The perenneural philosophy", he will share thoughts and details of using StyleGan2 as a tool for creating meaningful generative visual art.
+
+&nbsp;
+
+## 16:00 MSK [Nikita Panin](https://nikitapanin.com/)
+Nikita Panin is a multidisciplinary artist from St. Petersburg. 
+
+
+## 17:00 MSK [Olesya Ilenok](https://www.instagram.com/wall_for_scroll/)
+Olesya will tell about the WALL FOR SCROLL PROJECT -- practice of street art in the digital layer of the city Vladivostok, Russia. 
+
+Based on the changes in the city and the notion of public space with the development of digital technology, the practice preserves such important ethical aspects of street art as anonymity, the sudden encounter of the artist with the viewer, and site-specificity. 
+
+Text messages are created by an algorithm based on 5,000 inscriptions from Russian streets, and the resulting images are processed using a neural network.
+
+&nbsp;
+
+
+## 18:00 MSK [Alexandr Notchenko](https://github.com/gangiman)
+
+Alexandr  will give a talk about class of GLOW probabilistic models and their application to capture motion information associated with speech. 
+
+How to compute gesticulations for speech signals and what meaning lies behind it. Can we create animation for arbitrary signal or animate arbitrary 3D models ?  
+
+All of these questions and more will be discussed in the talk.
+
+&nbsp;
+
+
+
+## 19:00 MSK [Vadim Epstein](http://eps.here.ru/)
+
+Vadim Epstein will talk about the "dark side" of StarGAN2. one of the top quality networks for image transformations.
+
+it has been constructed originally to translate photo-real images between domains - cats to dogs, men to women, etc. we'll discuss its' capabilities for wider art applications - from simple stylizing to the creation of enigmatic near-abstract imagery. 
+
+The talk is illustrated with the fresh artworks.
+
+&nbsp;
 
 &nbsp;
 
@@ -56,6 +107,6 @@ After each talk there will be a live Q&A session with the speaker.
 
 And we’ll be streaming the whole thing to youtube!
 
-[![LIVE](images/ml_art_live_640.png)](https://www.youtube.com/watch?v=othTjSowvqY)
+[![LIVE](images/ml_art_live_640.png)](https://youtu.be/SbrdVdvtgVw)
 
 ### See you there!
